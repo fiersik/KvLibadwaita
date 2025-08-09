@@ -5,7 +5,7 @@
    version="1"
    id="svg1810"
    sodipodi:docname="KvLibadwaita.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -2604,17 +2604,20 @@
        height="22"
        opacity="0.00100002"
        id="rect739" />
-    <path
-       id="circle741"
-       style="stroke-width:1.6;fill:#3584e4;fill-opacity:1"
-       d="M 368 280 A 8 8 0 0 0 360 288 A 8 8 0 0 0 368 296 A 8 8 0 0 0 376 288 A 8 8 0 0 0 368 280 z M 368 282 A 6 6 0 0 1 374 288 A 6 6 0 0 1 368 294 A 6 6 0 0 1 362 288 A 6 6 0 0 1 368 282 z "
-       transform="translate(-40,128)" />
     <circle
        cx="328"
        cy="416"
-       r="6"
-       id="circle29777"
-       style="stroke-width:1.2;fill:#ffffff;fill-opacity:1" />
+       r="11"
+       id="circle43281-6"
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke-width:1" />
+    <circle
+       cx="328"
+       cy="416"
+       r="8"
+       id="circle741"
+       class="ColorScheme-Highlight"
+       fill="currentColor"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <g
      id="slidercursor-tickless-pressed"
@@ -2631,18 +2634,13 @@
        cy="416"
        r="11"
        id="circle746"
-       style="opacity:0.15;fill:#000000" />
-    <path
-       id="circle748"
-       style="stroke-width:1.6;fill:#3584e4;fill-opacity:1"
-       d="M 412 280 A 8 8 0 0 0 404 288 A 8 8 0 0 0 412 296 A 8 8 0 0 0 420 288 A 8 8 0 0 0 412 280 z M 412 283 A 5 5 0 0 1 417 288 A 5 5 0 0 1 412 293 A 5 5 0 0 1 407 288 A 5 5 0 0 1 412 283 z "
-       transform="translate(-40,128)" />
+       style="opacity:0.25;fill:#000000" />
     <circle
        cx="372"
        cy="416"
-       r="5"
+       r="8"
        id="circle46204"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.6" />
   </g>
   <g
      id="slidercursor-tickless-focused"
@@ -2659,18 +2657,13 @@
        cy="416"
        r="11"
        id="circle43281"
-       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke-width:1" />
-    <path
-       id="circle753"
-       style="stroke-width:0.727273;fill:#3584e4;fill-opacity:1"
-       d="M 390 280 A 8 8 0 0 0 382 288 A 8 8 0 0 0 390 296 A 8 8 0 0 0 398 288 A 8 8 0 0 0 390 280 z M 390 282 A 6 6 0 0 1 396 288 A 6 6 0 0 1 390 294 A 6 6 0 0 1 384 288 A 6 6 0 0 1 390 282 z "
-       transform="translate(-40,128)" />
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:1" />
     <circle
        cx="350"
        cy="416"
-       r="6"
+       r="8"
        id="circle755"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.33333" />
   </g>
   <g
      id="slidercursor-normal"
@@ -2682,15 +2675,16 @@
        height="22"
        opacity="0.00100002"
        id="rect765" />
+    <circle
+       id="path64528-9"
+       cx="328"
+       cy="438"
+       style="opacity:0.15;fill:#000000;stroke-width:0.999546"
+       r="11" />
     <path
-       id="path53563"
-       style="fill:#3584e4;fill-opacity:1"
-       d="M 368 303 C 364.1577 303 361 306.1577 361 310 C 361 313.8423 364.1577 317 368 317 L 368.00195 317 L 368.00391 317 C 369.81032 316.99711 371.54284 316.29331 372.8418 315.04492 L 372.89844 315.00195 L 377.80078 310 L 376.42773 308.59961 L 373.0293 305.13281 C 371.71154 303.77081 369.89527 303.00042 368 303 z M 368 305 C 369.3543 305.0003 370.65015 305.55011 371.5918 306.52344 L 375 310 L 371.57617 313.49414 C 371.57217 313.49714 371.5665 313.49995 371.5625 313.50195 C 370.6239 314.45901 369.3405 314.998 368 315 C 365.2386 315 363 312.7614 363 310 C 363 307.2386 365.2386 305 368 305 z "
-       transform="translate(-40,128)" />
-    <path
-       d="m 335,438 -3.4079,-3.4767 c -0.94165,-0.97333 -2.2378,-1.5231 -3.5921,-1.5234 -2.7614,0 -5,2.2386 -5,5 0,2.7614 2.2386,5 5,5 1.3405,-0.002 2.6242,-0.54194 3.5628,-1.499 0.004,-0.002 0.009,-0.004 0.013,-0.007 z"
+       d="m 337.801,438.00014 -4.77134,-4.86738 C 331.71127,431.7701 329.89655,431.00042 328.00042,431 324.13423,431 321,434.13404 321,438 c 0,3.86596 3.13423,7 7.00042,7 1.87681,-0.003 3.6741,-0.75872 4.98821,-2.0986 0.006,-0.003 0.0126,-0.006 0.0182,-0.01 z"
        id="path53561"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.40004" />
   </g>
   <g
      id="slider-normal-right"
@@ -3209,11 +3203,11 @@
   <path
      id="window-normal"
      d="m380 814.26h30v30h-30z"
-     style="fill:#fafafa;fill-opacity:1;opacity:1" />
+     style="fill:#fafafb;fill-opacity:1;opacity:1" />
   <path
      id="window-normal-inactive"
      d="m412 814.26h30v30h-30z"
-     style="fill:#ffffff;opacity:1;fill-opacity:1" />
+     style="fill:#fafafb;opacity:1;fill-opacity:1" />
   <rect
      id="menubar-normal"
      x="307.53"
@@ -3422,300 +3416,306 @@
   </g>
   <g
      id="button-normal-topleft"
-     transform="translate(9,116)">
-    <rect
-       x="-5"
-       y="-80"
-       width="6"
-       height="6"
-       fill="none"
-       style="paint-order:markers stroke fill"
-       id="rect1522" />
+     transform="translate(9,116)"
+     style="fill:#e6e6e7;fill-opacity:1">
     <path
        d="m1-80c-3.324 0-6 2.676-6 6h6z"
        id="path1524"
-       style="fill:#ebebeb;opacity:1;fill-opacity:1" />
+       style="fill:#e6e6e7;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="button-normal-top"
-     transform="translate(9,116)">
+     transform="translate(9,116)"
+     style="fill:#e6e6e7;fill-opacity:1">
     <rect
        x="1"
        y="-80"
        width="26"
        height="6"
        id="rect1527"
-       style="fill:#ebebeb;opacity:1;fill-opacity:1" />
+       style="fill:#e6e6e7;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="button-normal"
-     transform="translate(9,116)">
+     transform="translate(9,116)"
+     style="fill:#e6e6e7;fill-opacity:1">
     <rect
        x="1"
        y="-74"
        width="26"
        height="26"
        id="rect1530"
-       style="fill:#ebebeb;opacity:1;fill-opacity:1" />
+       style="fill:#e6e6e7;opacity:1;fill-opacity:1" />
   </g>
   <use
      id="button-normal-topright"
      transform="matrix(-1 0 0 1 46 0)"
      width="100%"
      height="100%"
-     xlink:href="#button-normal-topleft" />
+     xlink:href="#button-normal-topleft"
+     style="fill:#e6e6e7;fill-opacity:1" />
   <use
      id="button-normal-bottomright"
      transform="rotate(180 23 55)"
      width="100%"
      height="100%"
-     xlink:href="#button-normal-topleft" />
+     xlink:href="#button-normal-topleft"
+     style="fill:#e6e6e7;fill-opacity:1" />
   <use
      id="button-normal-bottomleft"
      transform="matrix(1 0 0 -1 0 110)"
      width="100%"
      height="100%"
-     xlink:href="#button-normal-topleft" />
+     xlink:href="#button-normal-topleft"
+     style="fill:#e6e6e7;fill-opacity:1" />
   <use
      id="button-normal-bottom"
      transform="translate(0,32)"
      width="100%"
      height="100%"
-     xlink:href="#button-normal-top" />
+     xlink:href="#button-normal-top"
+     style="fill:#e6e6e7;fill-opacity:1" />
   <use
      id="button-normal-left"
      transform="rotate(90 7 39)"
      width="100%"
      height="100%"
-     xlink:href="#button-normal-top" />
+     xlink:href="#button-normal-top"
+     style="fill:#e6e6e7;fill-opacity:1" />
   <use
      id="button-normal-right"
      transform="rotate(90 23 55)"
      width="100%"
      height="100%"
-     xlink:href="#button-normal-top" />
+     xlink:href="#button-normal-top"
+     style="fill:#e6e6e7;fill-opacity:1" />
   <g
      id="button-focused-topleft"
-     transform="matrix(.99999 0 0 .99999 55.989 115.99)">
-    <rect
-       x="-5"
-       y="-80"
-       width="6"
-       height="6"
-       fill="none"
-       style="paint-order:markers stroke fill"
-       id="rect1539" />
+     transform="matrix(.99999 0 0 .99999 55.989 115.99)"
+     style="fill:#dcdcde;fill-opacity:1">
     <path
        d="m1-80c-3.324 0-6 2.676-6 6h6z"
        id="path1541"
-       style="fill:#cfcfcf;opacity:1;fill-opacity:1" />
+       style="fill:#dcdcde;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="button-focused-top"
-     transform="matrix(.99999 0 0 .99999 55.989 115.99)">
+     transform="matrix(.99999 0 0 .99999 55.989 115.99)"
+     style="fill:#dcdcde;fill-opacity:1">
     <rect
        x="1"
        y="-80"
        width="26"
        height="6"
        id="rect1544"
-       style="fill:#cfcfcf;opacity:1;fill-opacity:1" />
+       style="fill:#dcdcde;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="button-focused"
-     transform="matrix(.99999 0 0 .99999 55.989 115.99)">
+     transform="matrix(.99999 0 0 .99999 55.989 115.99)"
+     style="fill:#dcdcde;fill-opacity:1">
     <rect
        x="1"
        y="-74"
        width="26"
        height="26"
        id="rect1547"
-       style="fill:#cfcfcf;opacity:1;fill-opacity:1" />
+       style="fill:#dcdcde;opacity:1;fill-opacity:1" />
   </g>
   <use
      id="button-focused-topright"
      transform="matrix(-1 0 0 1 139.97 2e-6)"
      width="100%"
      height="100%"
-     xlink:href="#button-focused-topleft" />
+     xlink:href="#button-focused-topleft"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-focused-bottomright"
      transform="rotate(180 69.993 54.988)"
      width="100%"
      height="100%"
-     xlink:href="#button-focused-topleft" />
+     xlink:href="#button-focused-topleft"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-focused-bottomleft"
      transform="matrix(1 0 0 -1 -3e-6 110.01)"
      width="100%"
      height="100%"
-     xlink:href="#button-focused-topleft" />
+     xlink:href="#button-focused-topleft"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-focused-bottom"
      transform="translate(-3e-6 32)"
      width="100%"
      height="100%"
-     xlink:href="#button-focused-top" />
+     xlink:href="#button-focused-top"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-focused-left"
      transform="rotate(90 53.99 39.001)"
      width="100%"
      height="100%"
-     xlink:href="#button-focused-top" />
+     xlink:href="#button-focused-top"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-focused-right"
      transform="rotate(90 69.993 54.988)"
      width="100%"
      height="100%"
-     xlink:href="#button-focused-top" />
+     xlink:href="#button-focused-top"
+     style="fill:#dcdcde;fill-opacity:1" />
   <g
      id="button-pressed-topleft"
-     transform="matrix(.99999 0 0 .99999 103 116)">
-    <rect
-       x="-5"
-       y="-80"
-       width="6"
-       height="6"
-       fill="none"
-       style="paint-order:markers stroke fill"
-       id="rect1556" />
+     transform="matrix(.99999 0 0 .99999 103 116)"
+     style="fill:#dcdcde;fill-opacity:1">
     <path
        d="m1-80c-3.324 0-6 2.676-6 6h6z"
        id="path1558"
-       style="fill:#a9a9a9;opacity:1;fill-opacity:1" />
+       style="fill:#dcdcde;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="button-pressed-top"
-     transform="matrix(.99999 0 0 .99999 103 116)">
+     transform="matrix(.99999 0 0 .99999 103 116)"
+     style="fill:#dcdcde;fill-opacity:1">
     <rect
        x="1"
        y="-80"
        width="26"
        height="6"
        id="rect1561"
-       style="fill:#a9a9a9;opacity:1;fill-opacity:1" />
+       style="fill:#dcdcde;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="button-pressed"
-     transform="matrix(.99999 0 0 .99999 103 116)">
+     transform="matrix(.99999 0 0 .99999 103 116)"
+     style="fill:#dcdcde;fill-opacity:1">
     <rect
        x="1"
        y="-74"
        width="26"
        height="26"
        id="rect1564"
-       style="fill:#a9a9a9;opacity:1;fill-opacity:1" />
+       style="fill:#dcdcde;opacity:1;fill-opacity:1" />
   </g>
   <use
      id="button-pressed-topright"
      transform="matrix(-1 0 0 1 233.99 2e-6)"
      width="100%"
      height="100%"
-     xlink:href="#button-pressed-topleft" />
+     xlink:href="#button-pressed-topleft"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-pressed-bottomright"
      transform="rotate(180 117 54.998)"
      width="100%"
      height="100%"
-     xlink:href="#button-pressed-topleft" />
+     xlink:href="#button-pressed-topleft"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-pressed-bottomleft"
      transform="matrix(1 0 0 -1 -3e-6 110.03)"
      width="100%"
      height="100%"
-     xlink:href="#button-pressed-topleft" />
+     xlink:href="#button-pressed-topleft"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-pressed-bottom"
      transform="translate(-3e-6 32)"
      width="100%"
      height="100%"
-     xlink:href="#button-pressed-top" />
+     xlink:href="#button-pressed-top"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-pressed-left"
      transform="rotate(90 101 39.01)"
      width="100%"
      height="100%"
-     xlink:href="#button-pressed-top" />
+     xlink:href="#button-pressed-top"
+     style="fill:#dcdcde;fill-opacity:1" />
   <use
      id="button-pressed-right"
      transform="rotate(90 117 54.998)"
      width="100%"
      height="100%"
-     xlink:href="#button-pressed-top" />
+     xlink:href="#button-pressed-top"
+     style="fill:#dcdcde;fill-opacity:1" />
   <g
      id="button-toggled-topleft"
-     transform="matrix(.99999 0 0 .99999 154 116)">
-    <rect
-       x="-5"
-       y="-80"
-       width="6"
-       height="6"
-       fill="none"
-       style="paint-order:markers stroke fill"
-       id="rect1573" />
+     transform="matrix(.99999 0 0 .99999 154 116)"
+     style="fill:#bebec0;fill-opacity:1">
     <path
-       d="m1-80c-3.324 0-6 2.676-6 6h6z"
-       style="paint-order:markers stroke fill;fill:#b3b3b3;fill-opacity:1"
-       id="path1575" />
+       d="m 1.00001,-80.0008 c -3.324,0 -6.00006,2.67606 -6.00006,6.00006 h 6.00006 z"
+       style="paint-order:markers stroke fill"
+       id="path5" />
   </g>
   <g
      id="button-toggled-top"
-     transform="matrix(.99999 0 0 .99999 154 116)">
+     transform="matrix(.99999 0 0 .99999 154 116)"
+     style="fill:#bebec0;fill-opacity:1">
     <rect
        x="1"
        y="-80"
        width="26"
        height="6"
-       style="paint-order:markers stroke fill;fill:#b3b3b3;fill-opacity:1"
+       style="paint-order:markers stroke fill;fill:#bebec0;fill-opacity:1"
        id="rect1578" />
   </g>
   <g
      id="button-toggled"
-     transform="matrix(.99999 0 0 .99999 154 116)">
+     transform="matrix(.99999 0 0 .99999 154 116)"
+     style="fill:#bebec0;fill-opacity:1">
     <rect
        x="1"
        y="-74"
        width="26"
        height="26.000259"
-       style="fill:#b3b3b3;fill-opacity:1;stroke-width:1.00001;paint-order:markers stroke fill"
+       style="fill:#bebec0;fill-opacity:1;stroke-width:1.00001;paint-order:markers stroke fill"
        id="rect1581" />
   </g>
-  <use
+  <g
      id="button-toggled-topright"
-     transform="matrix(-1 0 0 1 335.99 2.21e-6)"
-     width="100%"
-     height="100%"
-     xlink:href="#button-toggled-topleft" />
+     transform="matrix(-0.99999,0,0,0.99999,181.99,116)"
+     style="fill:#bebec0;fill-opacity:1">
+    <path
+       d="m 1,-80 c -3.324,0 -6,2.676 -6,6 h 6 z"
+       style="fill:#bebec0;fill-opacity:1;paint-order:markers stroke fill"
+       id="path4" />
+  </g>
   <use
      id="button-toggled-bottomright"
      transform="rotate(180 168 54.998)"
      width="100%"
      height="100%"
-     xlink:href="#button-toggled-topleft" />
+     xlink:href="#button-toggled-topleft"
+     style="fill:#bebec0;fill-opacity:1" />
   <use
      id="button-toggled-bottomleft"
      transform="matrix(1 0 0 -1 -3e-6 110.03)"
      width="100%"
      height="100%"
-     xlink:href="#button-toggled-topleft" />
+     xlink:href="#button-toggled-topleft"
+     style="fill:#bebec0;fill-opacity:1" />
   <use
      id="button-toggled-bottom"
      transform="translate(-3e-6 32)"
      width="100%"
      height="100%"
-     xlink:href="#button-toggled-top" />
+     xlink:href="#button-toggled-top"
+     style="fill:#bebec0;fill-opacity:1" />
   <use
      id="button-toggled-left"
      transform="rotate(90 152 39.01)"
      width="100%"
      height="100%"
-     xlink:href="#button-toggled-top" />
+     xlink:href="#button-toggled-top"
+     style="fill:#bebec0;fill-opacity:1" />
   <use
      id="button-toggled-right"
      transform="rotate(90 168 54.998)"
      width="100%"
      height="100%"
-     xlink:href="#button-toggled-top" />
+     xlink:href="#button-toggled-top"
+     style="fill:#bebec0;fill-opacity:1" />
   <g
      id="tbutton-normal-topleft"
      transform="matrix(5.0384183,0,0,5.0390527,-63.646221,-131.99449)"
@@ -4525,16 +4525,12 @@
        id="path64528"
        cx="390"
        cy="310"
-       style="opacity:0.15;fill:#000000;stroke-width:0.999546"
+       style="opacity:0.25;fill:#000000;stroke-width:0.999546"
        r="11" />
     <path
-       id="path64497"
-       style="fill:#3584e4;fill-opacity:1"
-       d="M 390 303 C 386.1577 303 383 306.1577 383 310 C 383 313.8423 386.1577 317 390 317 L 390.00195 317 L 390.00391 317 C 391.81032 316.99711 393.54284 316.29331 394.8418 315.04492 L 394.89844 315.00195 L 399.80078 310 L 398.42773 308.59961 L 395.0293 305.13281 C 393.71154 303.77081 391.89527 303.00042 390 303 z M 390 305 C 391.3543 305.0003 392.65015 305.55011 393.5918 306.52344 L 397 310 L 393.57617 313.49414 C 393.57217 313.49714 393.5665 313.49995 393.5625 313.50195 C 392.6239 314.45901 391.3405 314.998 390 315 C 387.2386 315 385 312.7614 385 310 C 385 307.2386 387.2386 305 390 305 z " />
-    <path
-       d="m 397,310.0001 -3.4079,-3.4767 C 392.65045,305.55007 391.3543,305.0003 390,305 c -2.7614,0 -5,2.2386 -5,5 0,2.7614 2.2386,5 5,5 1.3405,-0.002 2.6242,-0.54194 3.5628,-1.499 0.004,-0.002 0.009,-0.004 0.013,-0.007 z"
+       d="m 399.801,310.00014 -4.77134,-4.86738 C 393.71127,303.7701 391.89655,303.00042 390.00042,303 386.13423,303 383,306.13404 383,310 c 0,3.86596 3.13423,7 7.00042,7 1.87681,-0.003 3.6741,-0.75872 4.98821,-2.0986 0.006,-0.003 0.0126,-0.006 0.0182,-0.01 z"
        id="path64499"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.40004" />
   </g>
   <g
      id="slidercursor-pressed"
@@ -4543,17 +4539,12 @@
        id="circle64788"
        cx="390"
        cy="310"
-       style="opacity:0.15;fill:#000000;stroke-width:0.999546"
+       style="opacity:0.25;fill:#000000;stroke-width:0.999546"
        r="11" />
     <path
-       id="path64790"
-       style="fill:#3584e4;fill-opacity:1"
-       d="M 412.19922 303 C 408.35692 303 405.19922 306.1577 405.19922 310 C 405.19922 313.8423 408.35692 317 412.19922 317 L 412.20117 317 L 412.20312 317 C 414.00954 316.99711 415.74206 316.29331 417.04102 315.04492 L 417.09766 315.00195 L 422 310 L 420.62695 308.59961 L 417.22852 305.13281 C 415.91076 303.77081 414.09449 303.00042 412.19922 303 z M 412.40039 306 C 413.48383 306.00024 414.52012 306.44009 415.27344 307.21875 L 418 310 L 415.25977 312.79492 C 415.25637 312.79792 415.253 312.79878 415.25 312.80078 C 414.49912 313.56643 413.47279 313.998 412.40039 314 C 410.19127 314 408.40039 312.20912 408.40039 310 C 408.40039 307.79088 410.19127 306 412.40039 306 z "
-       transform="translate(-22.2,8e-5)" />
-    <path
-       d="m 395.8,310.00008 -2.72632,-2.78136 C 392.32036,306.44006 391.28344,306.00024 390.2,306 c -2.20912,0 -4,1.79088 -4,4 0,2.20912 1.79088,4 4,4 1.0724,-0.002 2.09936,-0.43355 2.85024,-1.1992 0.003,-0.002 0.007,-0.003 0.0104,-0.006 z"
+       d="m 399.8,310.00064 -4.77134,-4.86767 c -1.31839,-1.36274 -3.13311,-2.13247 -5.02924,-2.13289 -3.86619,0 -7.00042,3.13423 -7.00042,7.00042 0,3.86619 3.13423,7.00041 7.00042,7.00041 1.87681,-0.003 3.6741,-0.75875 4.98821,-2.09872 0.005,-0.004 0.0122,-0.005 0.0182,-0.0105 z"
        id="path64792"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.8" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.40008" />
   </g>
   <g
      id="slidercursor-tickless-disabled"
@@ -4565,17 +4556,12 @@
        height="22"
        opacity="0.00100002"
        id="rect64880" />
-    <path
-       id="circle64882"
-       style="fill:#3584e4;fill-opacity:1;stroke-width:1.6;opacity:0.35"
-       d="M 345 280 A 8 8 0 0 0 337 288 A 8 8 0 0 0 345 296 A 8 8 0 0 0 353 288 A 8 8 0 0 0 345 280 z M 345 282 A 6 6 0 0 1 351 288 A 6 6 0 0 1 345 294 A 6 6 0 0 1 339 288 A 6 6 0 0 1 345 282 z "
-       transform="translate(-17,128)" />
     <circle
        cx="328"
        cy="416"
-       r="6"
+       r="8"
        id="circle64884"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:1.2" />
+       style="fill:#d2d2d2;fill-opacity:1;stroke-width:1.6" />
   </g>
   <g
      id="slidercursor-disabled"
@@ -4588,14 +4574,9 @@
        opacity="0.00100002"
        id="rect64888" />
     <path
-       id="path64890"
-       style="fill:#3584e4;fill-opacity:1;opacity:0.35"
-       d="M 345 303 C 341.1577 303 338 306.1577 338 310 C 338 313.8423 341.1577 317 345 317 L 345.00195 317 L 345.00391 317 C 346.81032 316.99711 348.54284 316.29331 349.8418 315.04492 L 349.89844 315.00195 L 354.80078 310 L 353.42773 308.59961 L 350.0293 305.13281 C 348.71154 303.77081 346.89527 303.00042 345 303 z M 345 305 C 346.3543 305.0003 347.65015 305.55011 348.5918 306.52344 L 352 310 L 348.57617 313.49414 C 348.57217 313.49714 348.5665 313.498 348.5625 313.5 C 347.6239 314.45706 346.3405 314.998 345 315 C 342.2386 315 340 312.7614 340 310 C 340 307.2386 342.2386 305 345 305 z "
-       transform="translate(-17,128)" />
-    <path
-       d="m 335,438 -3.4079,-3.4767 c -0.94165,-0.97333 -2.2378,-1.5231 -3.5921,-1.5234 -2.7614,0 -5,2.2386 -5,5 0,2.7614 2.2386,5 5,5 1.3405,-0.002 2.6242,-0.54194 3.5628,-1.499 0.004,-0.002 0.009,-0.004 0.013,-0.007 z"
+       d="m 337.8,438.00014 -4.77105,-4.86738 C 331.71064,431.77009 329.89602,431.00042 328,431 c -3.86596,0 -7,3.13404 -7,7 0,3.86597 3.13404,7 7,7 1.8767,-0.003 3.67389,-0.75872 4.98792,-2.0986 0.006,-0.003 0.0126,-0.006 0.0182,-0.01 z"
        id="path64892"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#d2d2d2;fill-opacity:1;stroke-width:1.4" />
   </g>
   <g
      id="lineedit-normal"

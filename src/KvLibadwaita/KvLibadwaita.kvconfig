@@ -1,6 +1,6 @@
 [%General]
-author=Vince Liuice, based on KvAdapta by Tsu Jan
-comment=An uncomplicated theme inspired by the Materia GTK theme
+author=Fiersik Kouji
+comment=A Kvantum theme based on Libadwaita
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=false
